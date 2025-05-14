@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/andrewlayer-mcp-cat-facts-badge.png)](https://mseep.ai/app/andrewlayer-mcp-cat-facts)
+
 cat-facts-mcp
 =================
 
